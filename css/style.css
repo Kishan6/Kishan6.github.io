@@ -95,6 +95,7 @@ form {
 .footer p {
 	font-family: 'Titillium Web', sans-serif;
 	color: #061F47;
+	opacity: 0.01; 
 	display: block;
 	font-size: 1em;
 	font-weight: 100;
@@ -106,6 +107,7 @@ form {
 .footer p.a a{
 	color: #061F47;
 		-webkit-transition: all 0.5s ease-out;
+	opacity: 0.01;
 	-moz-transition: all 0.5s ease-out;
 	-ms-transition: all 0.5s ease-out;
 	-o-transition: all 0.5s ease-out;
